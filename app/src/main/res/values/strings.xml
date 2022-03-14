@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Currency Calc</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+
+    <string-array name="currency_codes">
+        <item name="Euro - EUR">EUR</item>
+        <item name="British Pound Stirling - GBP">GBP</item>
+        <item name="United States Dollar - USD">USD</item>
+        <item name="Swiss Franc - CHF">CHF</item>
+        <item name="United Arab Emirates Dirham - AED">AED</item>
+        <item name="Chinese Yuan - CNY">CNY</item>
+        <item name="Japanese Yen - JPY">JPY</item>
+        <item name="Turkish Lira - TRY">TRY</item>
+
+        <item name="Bitcoin - BTC">BTC</item>
+        <item name="Ethereum - ETH">ETH</item>
+        <item name="Tether - USDT">USDT</item>
+        <item name="BNB - BNB">BNB</item>
+        <item name="USD Coin - USDC">USDC</item>
+        <item name="XRP - XRP">XRP</item>
+        <item name="Terra - LUNA">LUNA</item>
+        <item name="Cardano - ADA">ADA</item>
+        <item name="Solana - SOL">SOL</item>
+        <item name="Binance USD - BUSD">BUSD</item>
+        <item name="Avalanche - AVAX">AVAX</item>
+        <item name="Polkadot - DOT">DOT</item>
+        <item name="Dogecoin - DOGE">DOGE</item>
+    </string-array>
+
+    <!--<string-array name="crypto_codes">
+        <item name="Bitcoin - BTC">BTC</item>
+        <item name="Ethereum - ETH">ETH</item>
+        <item name="Tether - USDT">USDT</item>
+        <item name="BNB - BNB">BNB</item>
+        <item name="USD Coin - USDC">USDC</item>
+        <item name="XRP - XRP">XRP</item>
+        <item name="Terra - LUNA">LUNA</item>
+        <item name="Cardano - ADA">ADA</item>
+        <item name="Solana - SOL">SOL</item>
+        <item name="Binance USD - BUSD">BUSD</item>
+        <item name="Avalanche - AVAX">AVAX</item>
+        <item name="Polkadot - DOT">DOT</item>
+        <item name="Dogecoin - DOGE">DOGE</item>
+        <item name="TerraUSD - UST">UST</item>
+        <item name="Shiba Inu - SHIB">SHIB</item>
+        <item name="Wrapped Bitcoin - WBTC">WBTC</item>
+        <item name="Polygon - MATIC">MATIC</item>
+        <item name="Dai - DAI">DAI</item>
+        <item name="Cronos - CRO">CRO</item>
+        <item name="Cosmos - ATOM">ATOM</item>
+
+    </string-array>-->
+</resources>
