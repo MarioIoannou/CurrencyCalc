@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/mario/AndroidStudioProjects/CurrencyCalc/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/mario/AndroidStudioProjects/CurrencyCalc/app/src/main/res/layout/activity_intro.xml" value="0.17118055555555556" />
+        <entry key="..\:/Users/mario/AndroidStudioProjects/CurrencyCalc/app/src/main/res/layout/activity_main.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/mario/AndroidStudioProjects/CurrencyCalc/app/src/main/res/layout/activity_time_calc.xml" value="0.17118055555555556" />
       </map>
     </option>
   </component>
