@@ -1,4 +1,4 @@
-package com.marioioannou.currencycalc
+package com.marioioannou.currencycalc.ui
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -20,10 +20,10 @@ class IntroActivity : AppCompatActivity() {
             }
         }
 
-        binding.cvIntroTime.setOnClickListener {
-            Intent(this, timeCalc::class.java).apply {
-                startActivity(this)
-            }
-        }
+//        binding.cvIntroTime.setOnClickListener {
+//            Intent(this, timeCalc::class.java).apply {
+//                startActivity(this)
+//            }
+//        }
     }
 }
